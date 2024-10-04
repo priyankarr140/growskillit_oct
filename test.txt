@@ -2,3 +2,4 @@ i am master
 i am login
 i am logout
 i am master
+forgot password added
